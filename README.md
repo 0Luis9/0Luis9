@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi👋 My name is Luis Angel I am Dominican🔥, I am 16 years old I live in El Mirador La Vega,Currently I study computer science at the Manuel Acevedo Serrano Educational Center
 
+### Social Media
+[Instegram](https://www.instagram.com/luis_a_criss/)
+<br>
+[Facebook](https://www.facebook.com/profile.php?id=100013275375967)
+### Hobbies
+-Playing video games
+<br>
+-Watch Anime
 <!--
 **0Luis9/0Luis9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
